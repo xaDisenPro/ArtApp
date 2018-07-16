@@ -1,2 +1,5 @@
 hello
 go home
+nihao
+wo hao 
+dajiahao
